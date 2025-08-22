@@ -15,7 +15,7 @@ Je vous aime pour utiliser mon bot et merci beaucoup pour vos gentils messages
 
 [![Comment Installer ?](https://github.com/Reloisback/test/blob/main/howinstall.png?raw=true)](https://youtu.be/sWPjBpMhb3s)
 
-### 🆕 Quoi de Neuf dans V4 ?
+### 🆕 Quoi de Neuf dans V5 ?
 
 ### **🔐 Sécurité renforcée**
 * **Configuration sécurisée** : Migration vers le système `.env` pour protéger vos informations sensibles

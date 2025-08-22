@@ -1,0 +1,17 @@
+# Configuration sécurisée du Bot Discord Whiteout Survival
+# Ce fichier contient des informations sensibles - NE JAMAIS le partager !
+
+# Token de votre bot Discord (obtenu depuis le portail développeur Discord)
+BOT_TOKEN=
+
+# ID du serveur Discord (guild) où le bot fonctionnera
+GUILD_ID=
+
+# ID du canal Discord où le bot enverra les notifications
+CHANNEL_ID=
+
+# Nom de votre alliance dans Whiteout Survival
+ALLIANCE_NAME=DEVDEV
+
+# Clé secrète pour les opérations sensibles
+SECRET=

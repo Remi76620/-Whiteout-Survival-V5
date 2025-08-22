@@ -1,0 +1,24 @@
+# Dépendances ESSENTIELLES pour le Bot Discord Whiteout Survival V4
+# Installation: py -m pip install -r requirements.txt
+
+# Bot Discord principal (OBLIGATOIRE)
+discord.py==2.3.2
+
+# Gestion des variables d'environnement (OBLIGATOIRE)
+python-dotenv==1.0.0
+
+# Requêtes HTTP et API (OBLIGATOIRE)
+requests==2.32.5
+aiohttp==3.10.11
+
+# Support des proxies SOCKS (OBLIGATOIRE)
+aiohttp-socks==0.10.1
+
+# Gestion des couleurs dans le terminal (OBLIGATOIRE)
+colorama==0.4.6
+
+# Gestion des fichiers ZIP chiffrés (OBLIGATOIRE)
+pyzipper==0.3.6
+
+# Gestion des fuseaux horaires (OBLIGATOIRE)
+pytz==2024.1
